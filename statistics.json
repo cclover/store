@@ -1,7 +1,7 @@
-{"version":2.150,"groups":[
-{"team":"bra","group":"A","w":1,"d":0,"l":0,"gf":3,"ga":1,"pts":3,"pos":1},
+{"version":2.170,"groups":[
+{"team":"bra","group":"A","w":1,"d":1,"l":0,"gf":3,"ga":1,"pts":4,"pos":1},
 {"team":"cro","group":"A","w":0,"d":0,"l":1,"gf":1,"ga":3,"pts":0,"pos":4},
-{"team":"mex","group":"A","w":1,"d":0,"l":0,"gf":1,"ga":0,"pts":3,"pos":2},
+{"team":"mex","group":"A","w":1,"d":1,"l":0,"gf":1,"ga":0,"pts":4,"pos":2},
 {"team":"cmr","group":"A","w":0,"d":0,"l":1,"gf":0,"ga":1,"pts":0,"pos":3},
 {"team":"esp","group":"B","w":0,"d":0,"l":1,"gf":1,"ga":5,"pts":0,"pos":4},
 {"team":"ned","group":"B","w":1,"d":0,"l":0,"gf":5,"ga":1,"pts":3,"pos":1},
@@ -29,8 +29,8 @@
 {"team":"usa","group":"G","w":1,"d":0,"l":0,"gf":2,"ga":1,"pts":3,"pos":2},
 {"team":"bel","group":"H","w":1,"d":0,"l":0,"gf":2,"ga":1,"pts":3,"pos":1},
 {"team":"alg","group":"H","w":0,"d":0,"l":1,"gf":1,"ga":2,"pts":0,"pos":4},
-{"team":"rus","group":"H","w":0,"d":0,"l":0,"gf":0,"ga":0,"pts":0,"pos":2},
-{"team":"kor","group":"H","w":0,"d":0,"l":0,"gf":0,"ga":0,"pts":0,"pos":3}],
+{"team":"rus","group":"H","w":0,"d":1,"l":0,"gf":1,"ga":1,"pts":1,"pos":2},
+{"team":"kor","group":"H","w":0,"d":1,"l":0,"gf":1,"ga":1,"pts":1,"pos":3}],
 "goal":
 [
 {"pos":1,"name":"穆勒","eng":"Muller","team":"ger","count":3,"ext":"1"},
@@ -68,9 +68,11 @@
 {"pos":30,"name":"布鲁克斯","eng":"Brooks","team":"usa","count":1,"ext":""},
 {"pos":30,"name":"费莱尼","eng":"Fellaini","team":"bel","count":1,"ext":""},
 {"pos":30,"name":"梅尔滕斯","eng":"Mertens","team":"bel","count":1,"ext":""},
-{"pos":36,"name":"阿隆索","eng":"Alonso","team":"esp","count":1,"ext":"1"},
-{"pos":36,"name":"卡瓦尼","eng":"Cavani","team":"uru","count":1,"ext":"1"},
-{"pos":36,"name":"费古利","eng":"Feghouli","team":"alg","count":1,"ext":"1"}
+{"pos":30,"name":"科尔扎科夫","eng":"Kerzhakov","team":"rus","count":1,"ext":""},
+{"pos":30,"name":"李根浩","eng":"Keun-Ho Lee","team":"kor","count":1,"ext":""},
+{"pos":38,"name":"阿隆索","eng":"Alonso","team":"esp","count":1,"ext":"1"},
+{"pos":38,"name":"卡瓦尼","eng":"Cavani","team":"uru","count":1,"ext":"1"},
+{"pos":38,"name":"费古利","eng":"Feghouli","team":"alg","count":1,"ext":"1"}
 ],
 "assist":
 [
