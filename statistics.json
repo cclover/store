@@ -1,4 +1,4 @@
-{"version":2.280,"groups":[
+{"version":2.20,"groups":[
 {"team":"bra","group":"A","w":1,"d":1,"l":0,"gf":3,"ga":1,"pts":4,"pos":1},
 {"team":"cro","group":"A","w":1,"d":0,"l":1,"gf":5,"ga":3,"pts":3,"pos":3},
 {"team":"mex","group":"A","w":1,"d":1,"l":0,"gf":1,"ga":0,"pts":4,"pos":2},
@@ -20,9 +20,9 @@
 {"team":"fra","group":"E","w":2,"d":0,"l":0,"gf":8,"ga":2,"pts":6,"pos":1},
 {"team":"hon","group":"E","w":0,"d":0,"l":2,"gf":1,"ga":5,"pts":0,"pos":4},
 {"team":"arg","group":"F","w":2,"d":0,"l":0,"gf":3,"ga":1,"pts":6,"pos":1},
-{"team":"bih","group":"F","w":0,"d":0,"l":1,"gf":1,"ga":2,"pts":0,"pos":4},
+{"team":"bih","group":"F","w":0,"d":0,"l":2,"gf":1,"ga":3,"pts":0,"pos":4},
 {"team":"irn","group":"F","w":0,"d":1,"l":1,"gf":0,"ga":1,"pts":1,"pos":3},
-{"team":"nga","group":"F","w":0,"d":1,"l":0,"gf":0,"ga":0,"pts":1,"pos":2},
+{"team":"nga","group":"F","w":1,"d":1,"l":0,"gf":1,"ga":0,"pts":4,"pos":2},
 {"team":"ger","group":"G","w":1,"d":1,"l":0,"gf":6,"ga":2,"pts":4,"pos":1},
 {"team":"por","group":"G","w":0,"d":0,"l":1,"gf":0,"ga":4,"pts":0,"pos":4},
 {"team":"gha","group":"G","w":0,"d":1,"l":1,"gf":3,"ga":4,"pts":1,"pos":3},
@@ -91,9 +91,10 @@
 {"pos":14,"name":"格策","eng":"Gotze","team":"ger","count":1,"ext":""},
 {"pos":14,"name":"克洛泽","eng":"Klose","team":"ger","count":1,"ext":""},
 {"pos":14,"name":"吉安","eng":"Gyan","team":"gha","count":1,"ext":""},
-{"pos":59,"name":"阿隆索","eng":"Alonso","team":"esp","count":1,"ext":"1"},
-{"pos":59,"name":"卡瓦尼","eng":"Cavani","team":"uru","count":1,"ext":"1"},
-{"pos":59,"name":"费古利","eng":"Feghouli","team":"alg","count":1,"ext":"1"}
+{"pos":14,"name":"奥德姆温吉","eng":"Odemwingie","team":"nga","count":1,"ext":""},
+{"pos":60,"name":"阿隆索","eng":"Alonso","team":"esp","count":1,"ext":"1"},
+{"pos":60,"name":"卡瓦尼","eng":"Cavani","team":"uru","count":1,"ext":"1"},
+{"pos":60,"name":"费古利","eng":"Feghouli","team":"alg","count":1,"ext":"1"}
 ],
 "assist":
 [
@@ -146,5 +147,6 @@
 {"pos":7,"name":"赫韦德斯","eng":"Howedes","team":"ger","count":1,"ext":""},
 {"pos":7,"name":"穆勒","eng":"Muller","team":"ger","count":1,"ext":""},
 {"pos":7,"name":"阿弗尔","eng":"Afful","team":"gha","count":1,"ext":""},
-{"pos":7,"name":"蒙塔里","eng":"Muntari","team":"gha","count":1,"ext":""}
+{"pos":7,"name":"蒙塔里","eng":"Muntari","team":"gha","count":1,"ext":""},
+{"pos":7,"name":"埃梅尼克","eng":"Emenike","team":"nga","count":1,"ext":""}
 ]}
