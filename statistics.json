@@ -1,4 +1,4 @@
-{"version":2.360,"groups":[
+{"version":2.380,"groups":[
 {"team":"bra","group":"A","w":2,"d":1,"l":0,"gf":7,"ga":2,"pts":7,"pos":1},
 {"team":"cro","group":"A","w":1,"d":0,"l":2,"gf":6,"ga":6,"pts":3,"pos":3},
 {"team":"mex","group":"A","w":2,"d":1,"l":0,"gf":4,"ga":1,"pts":7,"pos":2},
@@ -11,10 +11,10 @@
 {"team":"gre","group":"C","w":0,"d":1,"l":1,"gf":0,"ga":3,"pts":1,"pos":4},
 {"team":"civ","group":"C","w":1,"d":0,"l":1,"gf":3,"ga":3,"pts":3,"pos":2},
 {"team":"jpn","group":"C","w":0,"d":1,"l":1,"gf":1,"ga":2,"pts":1,"pos":3},
-{"team":"uru","group":"D","w":1,"d":0,"l":1,"gf":3,"ga":4,"pts":3,"pos":3},
-{"team":"crc","group":"D","w":2,"d":0,"l":0,"gf":4,"ga":1,"pts":6,"pos":1},
-{"team":"eng","group":"D","w":0,"d":0,"l":2,"gf":2,"ga":4,"pts":0,"pos":4},
-{"team":"ita","group":"D","w":1,"d":0,"l":1,"gf":2,"ga":2,"pts":3,"pos":2},
+{"team":"uru","group":"D","w":2,"d":0,"l":1,"gf":4,"ga":4,"pts":6,"pos":2},
+{"team":"crc","group":"D","w":2,"d":1,"l":0,"gf":4,"ga":1,"pts":7,"pos":1},
+{"team":"eng","group":"D","w":0,"d":1,"l":2,"gf":2,"ga":4,"pts":1,"pos":4},
+{"team":"ita","group":"D","w":1,"d":0,"l":2,"gf":2,"ga":3,"pts":3,"pos":3},
 {"team":"sui","group":"E","w":1,"d":0,"l":1,"gf":4,"ga":6,"pts":3,"pos":3},
 {"team":"ecu","group":"E","w":1,"d":0,"l":1,"gf":3,"ga":3,"pts":3,"pos":2},
 {"team":"fra","group":"E","w":2,"d":0,"l":0,"gf":8,"ga":2,"pts":6,"pos":1},
@@ -111,10 +111,11 @@
 {"pos":17,"name":"托雷斯","eng":"Torres","team":"esp","count":1,"ext":""},
 {"pos":17,"name":"马塔","eng":"Mata","team":"esp","count":1,"ext":""},
 {"pos":17,"name":"费尔","eng":"Fer","team":"ned","count":1,"ext":""},
+{"pos":17,"name":"戈丁","eng":"Godin","team":"uru","count":1,"ext":""},
 {"pos":17,"name":"马蒂普","eng":"Matip","team":"cmr","count":1,"ext":""},
-{"pos":80,"name":"阿隆索","eng":"Alonso","team":"esp","count":1,"ext":"1"},
-{"pos":80,"name":"卡瓦尼","eng":"Cavani","team":"uru","count":1,"ext":"1"},
-{"pos":80,"name":"费古利","eng":"Feghouli","team":"alg","count":1,"ext":"1"}
+{"pos":81,"name":"阿隆索","eng":"Alonso","team":"esp","count":1,"ext":"1"},
+{"pos":81,"name":"卡瓦尼","eng":"Cavani","team":"uru","count":1,"ext":"1"},
+{"pos":81,"name":"费古利","eng":"Feghouli","team":"alg","count":1,"ext":"1"}
 ],
 "assist":
 [
@@ -188,5 +189,6 @@
 {"pos":10,"name":"尼奥姆","eng":"Nyom","team":"cmr","count":1,"ext":""},
 {"pos":10,"name":"马科斯","eng":"Marquez","team":"mex","count":1,"ext":""},
 {"pos":10,"name":"佩拉尔塔","eng":"Peralta","team":"mex","count":1,"ext":""},
-{"pos":10,"name":"埃雷拉","eng":"Herrera","team":"mex","count":1,"ext":""}
+{"pos":10,"name":"埃雷拉","eng":"Herrera","team":"mex","count":1,"ext":""},
+{"pos":17,"name":"拉米雷斯","eng":"Ramirez","team":"uru","count":1,"ext":""}
 ]}
