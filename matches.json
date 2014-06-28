@@ -1,4 +1,4 @@
-{"Version":2.490,"TeamsCount":32,"MatchesCount":64,"stage":1,"newsURL":"http://3g.163.com/ntes/special/00340H1J/worldcup2014.html?from=index",
+{"Version":2.491,"TeamsCount":32,"MatchesCount":64,"stage":1,"newsURL":"http://3g.163.com/ntes/special/00340H1J/worldcup2014.html?from=index",
 "videoURL":"http://flv2.bn.netease.com/videolib3%s-mobile.mp4","matchURL"="http://3g.163.com/ntes/special/00340H1J/match.html?matchid=%s&from=singlemessage&isappinstalled=1","Matches":[
 {"NO":1,"Stage":0,"Group":"A","Time":"2014-06-13 04:00:00","Team1":"bra","Team2":"cro","Status":2,"Score1":3,"Score2":1,"ext":"/1406/21/DOPAI7492/SD/DOPAI7492"},
 {"NO":2,"Stage":0,"Group":"A","Time":"2014-06-14 00:00:00","Team1":"mex","Team2":"cmr","Status":2,"Score1":1,"Score2":0,"ext":"/1406/21/JeZdz7573/SD/JeZdz7573"},
@@ -56,7 +56,7 @@
 {"NO":54,"Stage":1,"Group":"-","Time":"2014-07-01 04:00:00","Team1":"ger","Team2":"alg","Status":0,"Score1":0,"Score2":0,"ext":"1263200"},
 {"NO":55,"Stage":1,"Group":"-","Time":"2014-07-02 00:00:00","Team1":"arg","Team2":"sui","Status":0,"Score1":0,"Score2":0,"ext":"1263201"},
 {"NO":56,"Stage":1,"Group":"-","Time":"2014-07-02 04:00:00","Team1":"bel","Team2":"usa","Status":0,"Score1":0,"Score2":0,"ext":"1263202"},
-{"NO":57,"Stage":2,"Group":"-","Time":"2014-07-05 04:00:00","Team1":"W49","Team2":"W50","Status":0,"Score1":0,"Score2":0,"ext":"1263203"},
+{"NO":57,"Stage":2,"Group":"-","Time":"2014-07-05 04:00:00","Team1":"bra","Team2":"W50","Status":0,"Score1":0,"Score2":0,"ext":"1263203"},
 {"NO":58,"Stage":2,"Group":"-","Time":"2014-07-05 00:00:00","Team1":"W53","Team2":"W54","Status":0,"Score1":0,"Score2":0,"ext":"1263204"},
 {"NO":59,"Stage":2,"Group":"-","Time":"2014-07-06 04:00:00","Team1":"W51","Team2":"W52","Status":0,"Score1":0,"Score2":0,"ext":"1263205"},
 {"NO":60,"Stage":2,"Group":"-","Time":"2014-07-06 00:00:00","Team1":"W55","Team2":"W56","Status":0,"Score1":0,"Score2":0,"ext":"1263206"},
