@@ -1,4 +1,4 @@
-{"version":2.500,"team":"http://sports1.sina.cn/worldcup/team?teamid=%s&vt=4","groups":[
+{"version":2.510,"team":"http://sports1.sina.cn/worldcup/team?teamid=%s&vt=4","groups":[
 {"team":"bra","group":"A","w":2,"d":1,"l":0,"gf":7,"ga":2,"pts":7,"pos":1,"id":"952"},
 {"team":"cro","group":"A","w":1,"d":0,"l":2,"gf":6,"ga":6,"pts":3,"pos":3,"id":"930"},
 {"team":"mex","group":"A","w":2,"d":1,"l":0,"gf":4,"ga":1,"pts":7,"pos":2,"id":"1545"},
@@ -63,6 +63,7 @@
 {"pos":24,"name":"胡梅尔斯","eng":"Hummels","team":"ger","count":1,"ext":""},
 {"pos":24,"name":"格策","eng":"Gotze","team":"ger","count":1,"ext":""},
 {"pos":24,"name":"克洛泽","eng":"Klose","team":"ger","count":1,"ext":""},
+{"pos":24,"name":"斯内德","eng":"Sneijder","team":"ned","count":1,"ext":""},
 {"pos":24,"name":"德弗里","eng":"De Vrij","team":"ned","count":1,"ext":""},
 {"pos":24,"name":"费尔","eng":"Fer","team":"ned","count":1,"ext":""},
 {"pos":24,"name":"罗霍","eng":"Rojo","team":"arg","count":1,"ext":""},
@@ -127,11 +128,12 @@
 {"pos":24,"name":"古尚内贾德","eng":"Ghoochannejhad","team":"irn","count":1,"ext":""},
 {"pos":24,"name":"马蒂普","eng":"Matip","team":"cmr","count":1,"ext":""},
 {"pos":24,"name":"萨马里斯","eng":"Samaris","team":"cmr","count":1,"ext":""},
-{"pos":95,"name":"夸德拉多","eng":"Cuadrado","team":"col","count":1,"ext":"1"},
-{"pos":95,"name":"卡瓦尼","eng":"Cavani","team":"uru","count":1,"ext":"1"},
-{"pos":95,"name":"阿隆索","eng":"Alonso","team":"esp","count":1,"ext":"1"},
-{"pos":95,"name":"萨马拉斯","eng":"Samaras","team":"gre","count":1,"ext":"1"},
-{"pos":95,"name":"费古利","eng":"Feghouli","team":"alg","count":1,"ext":"1"}
+{"pos":96,"name":"亨特拉尔","eng":"Huntelaar","team":"ned","count":1,"ext":"1"},
+{"pos":96,"name":"夸德拉多","eng":"Cuadrado","team":"col","count":1,"ext":"1"},
+{"pos":96,"name":"卡瓦尼","eng":"Cavani","team":"uru","count":1,"ext":"1"},
+{"pos":96,"name":"阿隆索","eng":"Alonso","team":"esp","count":1,"ext":"1"},
+{"pos":96,"name":"萨马拉斯","eng":"Samaras","team":"gre","count":1,"ext":"1"},
+{"pos":96,"name":"费古利","eng":"Feghouli","team":"alg","count":1,"ext":"1"}
 ],
 "assist":
 [
@@ -158,6 +160,7 @@
 {"pos":17,"name":"蒂亚戈-席尔瓦","eng":"Silva","team":"bra","count":1,"ext":""},
 {"pos":17,"name":"赫韦德斯","eng":"Howedes","team":"ger","count":1,"ext":""},
 {"pos":17,"name":"穆勒","eng":"Muller","team":"ger","count":1,"ext":""},
+{"pos":24,"name":"亨特拉尔","eng":"Huntelaar","team":"ned","count":1,"ext":""},
 {"pos":17,"name":"德古兹曼","eng":"De Guzman","team":"ned","count":1,"ext":""},
 {"pos":17,"name":"德佩","eng":"Depay","team":"ned","count":1,"ext":""},
 {"pos":17,"name":"罗本","eng":"Robben","team":"ned","count":1,"ext":""},
