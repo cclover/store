@@ -1,4 +1,4 @@
-{"version":2.580,"team":"http://sports1.sina.cn/worldcup/team?teamid=%s&vt=4","groups":[
+{"version":2.590,"team":"http://sports1.sina.cn/worldcup/team?teamid=%s&vt=4","groups":[
 {"team":"bra","group":"A","w":2,"d":1,"l":0,"gf":7,"ga":2,"pts":7,"pos":1,"id":"952"},
 {"team":"cro","group":"A","w":1,"d":0,"l":2,"gf":6,"ga":6,"pts":3,"pos":3,"id":"930"},
 {"team":"mex","group":"A","w":2,"d":1,"l":0,"gf":4,"ga":1,"pts":7,"pos":2,"id":"1545"},
@@ -71,6 +71,7 @@
 {"pos":28,"name":"斯内德","eng":"Sneijder","team":"ned","count":1,"ext":""},
 {"pos":28,"name":"德弗里","eng":"De Vrij","team":"ned","count":1,"ext":""},
 {"pos":28,"name":"费尔","eng":"Fer","team":"ned","count":1,"ext":""},
+{"pos":28,"name":"伊瓜因","eng":"Higuain","team":"arg","count":1,"ext":""},
 {"pos":28,"name":"罗霍","eng":"Rojo","team":"arg","count":1,"ext":""},
 {"pos":28,"name":"迪马利亚","eng":"Di Maria","team":"arg","count":1,"ext":""},
 {"pos":28,"name":"吉鲁","eng":"Giroud","team":"fra","count":1,"ext":""},
@@ -136,13 +137,13 @@
 {"pos":28,"name":"古尚内贾德","eng":"Ghoochannejhad","team":"irn","count":1,"ext":""},
 {"pos":28,"name":"马蒂普","eng":"Matip","team":"cmr","count":1,"ext":""},
 {"pos":28,"name":"萨马里斯","eng":"Samaris","team":"cmr","count":1,"ext":""},
-{"pos":104,"name":"帕帕斯塔索普洛斯","eng":"Papastathopoulos","team":"gre","count":1,"ext":""},
-{"pos":104,"name":"亨特拉尔","eng":"Huntelaar","team":"ned","count":1,"ext":"1"},
-{"pos":104,"name":"夸德拉多","eng":"Cuadrado","team":"col","count":1,"ext":"1"},
-{"pos":104,"name":"卡瓦尼","eng":"Cavani","team":"uru","count":1,"ext":"1"},
-{"pos":104,"name":"阿隆索","eng":"Alonso","team":"esp","count":1,"ext":"1"},
-{"pos":104,"name":"萨马拉斯","eng":"Samaras","team":"gre","count":1,"ext":"1"},
-{"pos":104,"name":"费古利","eng":"Feghouli","team":"alg","count":1,"ext":"1"}
+{"pos":105,"name":"帕帕斯塔索普洛斯","eng":"Papastathopoulos","team":"gre","count":1,"ext":""},
+{"pos":105,"name":"亨特拉尔","eng":"Huntelaar","team":"ned","count":1,"ext":"1"},
+{"pos":105,"name":"夸德拉多","eng":"Cuadrado","team":"col","count":1,"ext":"1"},
+{"pos":105,"name":"卡瓦尼","eng":"Cavani","team":"uru","count":1,"ext":"1"},
+{"pos":105,"name":"阿隆索","eng":"Alonso","team":"esp","count":1,"ext":"1"},
+{"pos":105,"name":"萨马拉斯","eng":"Samaras","team":"gre","count":1,"ext":"1"},
+{"pos":105,"name":"费古利","eng":"Feghouli","team":"alg","count":1,"ext":"1"}
 ],
 "assist":
 [
